@@ -1,4 +1,5 @@
-site_name: kitlang-rs docs
+site_name: kitlang-rs
 site_url: https://docs.kitlang.dev
+
 theme:
   name: material
