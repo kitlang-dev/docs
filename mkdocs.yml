@@ -3,3 +3,8 @@ site_url: https://docs.kitlang.dev
 
 theme:
   name: material
+
+nav:
+  - Home: index.md
+  - Differences from Kit compiler: differences.md
+  - Kit Style Guide: style-guide.md
