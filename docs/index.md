@@ -1,21 +1,17 @@
-# Welcome to MkDocs
+# kitlang-rs Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This site contains reference documentation for the `kitlang-rs` compiler, a Rust rewrite of [the original](https://github.com/kitlang/kit).
 
-## Commands
+The compiler is under active development.
+Documentation focuses on:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- historical context and prior art
+- observed language behavior
+- differences from the original Kit compiler
+- notes useful to contributors and maintainers
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+User-facing guides and stable references will be added as the language and tooling mature.
 
 ## License
 
-This documentation is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+Unless noted otherwise, all documentation files on this site are licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
